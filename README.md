@@ -1,4 +1,4 @@
-#🧾 **AI-Based Invoice Extraction System — Project Report**
+# 🧾 **AI-Based Invoice Extraction System**
 **1. Introduction**
 
 The AI Invoice Extraction System is an advanced application designed to extract structured information from invoice images using Google Gemini 2.5 Flash (Vision Model).
